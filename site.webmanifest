@@ -1,27 +1,18 @@
-{
-  "name": "Reiss Home Services",
-  "short_name": "Reiss Home",
-  "description": "Handyman repairs, installations, and punch lists in San Diego County.",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0c1626",
-  "theme_color": "#0c1626",
-  "icons": [
-    {
-      "src": "/assets/img/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/icon-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ]
-}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page moved | Reiss Home Services</title>
+  <meta name="robots" content="noindex,follow">
+  <link rel="canonical" href="https://reisshomeservices.com/services/">
+  <meta http-equiv="refresh" content="0; url=../">
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; line-height: 1.5; color: #102033; }
+    a { color: #1f4fe0; }
+  </style>
+</head>
+<body>
+  <p>This page has moved. Continue to <a href="../">https://reisshomeservices.com/services/</a>.</p>
+</body>
+</html>
